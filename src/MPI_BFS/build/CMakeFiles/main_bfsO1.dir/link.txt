@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-Bsymbolic-functions CMakeFiles/main_bfsO1.dir/main_bfs.c.o -o main_bfsO1  -lm /usr/lib/x86_64-linux-gnu/libmpich.so 

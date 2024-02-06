@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,-Bsymbolic-functions CMakeFiles/main_bfs_parallelO1.dir/main_bfs_parallel.c.o -o main_bfs_parallelO1  -lm /usr/lib/x86_64-linux-gnu/libmpich.so 

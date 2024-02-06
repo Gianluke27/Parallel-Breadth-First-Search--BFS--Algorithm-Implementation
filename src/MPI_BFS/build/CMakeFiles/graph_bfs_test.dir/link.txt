@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/graph_bfs_test.dir/graph_bfs_test.c.o -o graph_bfs_test  -lm 

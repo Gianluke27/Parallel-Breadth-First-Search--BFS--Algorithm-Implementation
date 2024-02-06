@@ -1,0 +1,14 @@
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfs_parallelO0.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfs_parallelO2.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfsO1.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfs_parallelO1.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfsO2.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfsO3.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/generate_graph.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfs_parallelO3.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/graph_bfs_test.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/main_bfsO0.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/generate_output.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/test.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Gianluca/Desktop/Secondo_appello/ContestMPI_bfs/build/CMakeFiles/edit_cache.dir

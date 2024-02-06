@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/generate_graph.dir/generate_graph.c.o -o generate_graph  -lm 
